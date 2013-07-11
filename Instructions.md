@@ -1,0 +1,9 @@
+Welcome to the first section of our KSLAM!
+
+Today's work will consist of three sections:
+
+1. Retrieving Data From an API
+2. Processing and Validating Data
+3. Making visualizations from your data
+
+ 
