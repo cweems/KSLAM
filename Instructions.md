@@ -24,6 +24,8 @@ We're going to start off the section by going through a simple lesson on Codecad
 1. An API has an endpoint which is the main URL that we call to receive data.
 2. APIs take "parameters" which allow us to filter data.
 3. Sometimes APIs take a "Key" – this allows the API administrators to regulate use of the API.
+4. Most APIs return JSON, a data format that works well for data transfers. We can convert JSON into Comma Separated Values (CSV) at websites like this one: http://www.danmandle.com/blog/json-to-csv-conversion-utility/
+5. Using these principals, Charlie will demonstrate how to access the USAID Development Credit Authority Loan Database via API. Don't worry about following along yourself, but do pull up the code that Charlie is using here: https://github.com/cweems/KSLAM/blob/master/Code/apicaller.py. You can run this on your computer later if you would like to experiment, but unfortunately Python takes a little effort to setup on some computers so we'll just observe for now.
 
 
 
