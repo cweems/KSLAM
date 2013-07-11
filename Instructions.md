@@ -12,5 +12,18 @@ Side note: The document you are reading is posted on Github. You can think of Gi
 
 We're going to start off the section by going through a simple lesson on Codecademy. Codecademy is a website that allows you to learn how to code in various languages in an online environment.
 
-* 1. Go to: http://www.codecademy.com
-* 2. If you think you might like to use Codecademy yourself, create an account by logging in via Google. Otherwise, have Charlie give you his login info.
+##Getting Started with APIs
+
+1. Go to: http://www.codecademy.com
+2. If you think you might like to use Codecademy yourself, create an account by logging in via Google. Otherwise, have Charlie give you his login info.
+3. We'll be using the Sunlight Foundation's Capitol Words API to learn the basics of accessing data via API. Once that's complete, Charlie will demonstrate how you can use the same code to access other API's such as the USAID Development Credit Authority Database. **Navigate to the course by clicking this link:** http://www.codecademy.com/courses/python-intermediate-en-D56TP/0/1?curriculum_id=50ecbb00306689057a000188
+4. Charlie and Mari will help lead you through the tutorial and explain what is happening.
+
+##Takeaways from the Capitol Words API:
+
+1. An API has an endpoint which is the main URL that we call to receive data.
+2. APIs take "parameters" which allow us to filter data.
+3. Sometimes APIs take a "Key" – this allows the API administrators to regulate use of the API.
+
+
+
