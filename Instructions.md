@@ -34,5 +34,28 @@ Here's a website that we can copy and paste our JSON into:
 * http://www.danmandle.com/blog/json-to-csv-conversion-utility/
 * http://jsfiddle.net/sturtevant/vUnF9/
 
+For now, just use the data set that we have created for this tutorial, located here:
+* 
+
+#Uploading Data to Google Fusion Tables
+
+Add the Google Fusion table app to Drive
+go to google drive, select create, then “connect more apps”
+select “fusion tables (experimental)”
+
+Create new fusion table
+Upload dataset
+
+Geocode your data based on country.
+If the country column is imported highlighted in yellow, it means that google has recognized it as a location. Click over to Geocode and it should add location data automatically.
+In order to get polygons instead of points, merge with a publicly available world country boundaries kml file – run a search or use Mari’s: http://bit.ly/worldmapKML
+Select the columns that have similar data (country names) and merge files
+
+Map your findings.
+Adjust map settings as appropriate to best display your information
+
+Profit.
+
+
 
 
