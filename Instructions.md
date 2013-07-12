@@ -1,6 +1,12 @@
 #Welcome to the first section of our KSLAM!
 
-Today's work will consist of three sections:
+#Related Post-Event Resources:
+
+* http://www.howto.gov/mobile/apis-in-government
+* http://www.hongkiat.com/blog/sites-to-learn-coding-online/
+* http://www.particletree.com/features/how-to-add-an-api-to-your-web-service/
+
+Today's work will consist of two sections:
 
 * 1. Retrieving and Processing Data From an API
 * 2. Making visualizations from your data
@@ -35,7 +41,7 @@ Here's a website that we can copy and paste our JSON into:
 * http://jsfiddle.net/sturtevant/vUnF9/
 
 For now, just use the data set that we have created for this tutorial, located here:
-* 
+* http://github.com/cweems/KSLAM/tree/master/Data
 
 #Uploading Data to Google Fusion Tables
 
@@ -55,7 +61,6 @@ Map your findings.
 Adjust map settings as appropriate to best display your information
 
 Profit.
-
 
 
 
